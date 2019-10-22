@@ -1,0 +1,6 @@
+c:\users\18734602-9\documents\visual studio 2013\Projects\Web_Clientes\Web_Clientes\bin\Web_Clientes.dll.config
+c:\users\18734602-9\documents\visual studio 2013\Projects\Web_Clientes\Web_Clientes\bin\Web_Clientes.dll
+c:\users\18734602-9\documents\visual studio 2013\Projects\Web_Clientes\Web_Clientes\bin\Web_Clientes.pdb
+c:\users\18734602-9\documents\visual studio 2013\Projects\Web_Clientes\Web_Clientes\obj\Debug\Web_Clientes.csprojResolveAssemblyReference.cache
+c:\users\18734602-9\documents\visual studio 2013\Projects\Web_Clientes\Web_Clientes\obj\Debug\Web_Clientes.dll
+c:\users\18734602-9\documents\visual studio 2013\Projects\Web_Clientes\Web_Clientes\obj\Debug\Web_Clientes.pdb
